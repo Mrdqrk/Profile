@@ -125,3 +125,8 @@ h1{
   object-position: center;
   overflow: hidden;
 }
+.card:Hover{
+  transform: scale(1.3);
+  z-index: 1;
+}
+
